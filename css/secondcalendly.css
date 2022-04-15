@@ -1,0 +1,79 @@
+.nav-calendly{
+	color: black;
+	font-size: small;
+	margin-left: 150px;
+
+}
+
+.row1{
+	padding-top: 100px;
+
+}
+
+.row1 h2{
+	font-weight: 900;
+	font-size: xx-large;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.row1 span{
+	color: blue;
+}
+
+.row1 button{
+	background-color: black;
+	color: white;
+	font-size: small;
+	border-radius: 15px;
+	margin-top: 30px;
+}
+
+.row2{
+	padding-top: 100px;
+}
+
+.row2 h5{
+	color: grey;
+	font-size: small;
+	margin-top: 10px;
+}
+
+.row2 h3{
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.row2 p{
+	margin-top: 20px;
+
+}
+
+.row3{
+	padding-top: 70px;
+}
+
+.row4{
+	padding-top: 50px;
+}
+
+.row4 h4{
+	font-weight: bolder;
+}
+
+.row4 span{
+	color: blue;
+}
+
+.row4 button{
+	color: black;
+	background-color: white;
+	width: 180px;
+	padding-left: 5px;
+}
+
+.row4 p{
+	font-size: small;
+	color: darkgrey;
+	padding-bottom: 5px;
+}
